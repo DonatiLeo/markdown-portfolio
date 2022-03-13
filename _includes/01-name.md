@@ -1,5 +1,5 @@
 # Leo Donati
 ## Université Côte d'Azur
 
-- [ ] Apprendre Markdown
+- [X] Apprendre Markdown
 - [ ] Apprendre *GitHub*
